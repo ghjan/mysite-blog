@@ -1,0 +1,9 @@
+*.pyc
+.idea/*
+shop.iml
+config_email*.py
+*/media/*
+*.sqlite3
+prepare/*
+mysite/static/*
+mysite/blog/migrations/*
